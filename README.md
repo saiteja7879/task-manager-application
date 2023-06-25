@@ -30,10 +30,10 @@ https://github.com/saiphaniteja-chilukuri/task-manager-application.git
 **Navigate to the project directory:
 cd task-manager-application
 
-**nstall the required dependencies:
+**Install the required dependencies:
 pip install -r requirements.txt
 
-**run the application:
+**Run the application:
 python main.py
 
 ##Usage
